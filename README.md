@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Dev<br>I'm a mobile developer passionate about building sleek, scalable, and efficient applications. I specialize in:<br><br> Mobile Development (Flutter, Dart, Kotlin, Jetpack Compose)<br> Real-time Communication (WebRTC, Agora, Firebase)<br> Backend & Cloud (Firebase, REST APIs)<br> State Management (Provider, GetX) - in flutter
+Hi there! 👋 I'm Dev<br>I'm a mobile developer passionate about building sleek, scalable, and efficient applications. I specialize in:<br><br> Mobile Development (Kotlin, Jetpack Compose ,Dart, Flutter)<br> Real-time Communication (WebRTC, Agora, Firebase, Supabase)<br> Backend & Cloud (Firebase, REST APIs, Retrofit )<br> State Management (Provider, GetX) - in flutter
 
 
 # 💻 Tech Stack:
