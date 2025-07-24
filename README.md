@@ -4,10 +4,10 @@ I'm a mobile developer who loves building sleek, scalable, and efficient apps.
 Currently working with Flutter and Kotlin to bring ideas to life.
 
 ### 🧠 What I Do
-- 📱 Mobile Dev - > Kotlin, Jetpack Compose, Flutter, Dart  
-- 🔁 Real-time Communication - > WebRTC, Agora, Firebase, Supabase  
-- ☁️ Backend & APIs - > Firebase, Retrofit, REST APIs  
-- ⚙️ State Management - > Provider, GetX (Flutter)
+- 📱 Mobile Dev -  Kotlin, Jetpack Compose, Flutter, Dart  
+- 🔁 Real-time Communication -  WebRTC, Agora, Firebase, Supabase  
+- ☁️ Backend & APIs -  Firebase, Retrofit, REST APIs  
+- ⚙️ State Management -  Provider, GetX (Flutter)
 
 ---
 
