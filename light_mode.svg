@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="958px" height="380px" font-size="16px">
+  <style>
+    @font-face {
+      src: local('Consolas'), local('Consolas Bold');
+      font-family: 'ConsolasFallback';
+      font-display: swap;
+      -webkit-size-adjust: 109%;
+      size-adjust: 109%;
+    }
+    .key { fill: #d73a49; }
+    .value { fill: #0366d6; }
+    .addColor { fill: #28a745; }
+    .delColor { fill: #d73a49; }
+    .cc { fill: #6a737d; }
+    text, tspan { white-space: pre; }
+  </style>
+
+  <rect width="985" height="530" fill="#ffffff" rx="15"/>
+  <text x="10" y="122" fill="#24292e" font-family="Consolas, monospace" font-size="14">
+    <tspan x="40" dy="1.2em">               ░         ░               </tspan>
+    <tspan x="40" dy="1.2em">             ▒▒▒▒▒░░░ ░░░░ ░░ ░░░░░░░             </tspan>
+    <tspan x="40" dy="1.2em">           ░▒▒▒░      ░▒░░░▒░      ░░             </tspan>
+    <tspan x="40" dy="1.2em">       ░   ░▒░ ░  ░░    ░░░░    ░░░ ░             </tspan>
+    <tspan x="40" dy="1.2em">      ░░▒░ ░▒▒░  ░  ░ ░░▒▒▒░░   ░░ ░░ ░           </tspan>
+    <tspan x="40" dy="1.2em">      ▒▒░░ ░▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒▒░  ▒▒░▒▒ ░           </tspan>
+    <tspan x="40" dy="1.2em">      ░▒░░░ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒            </tspan>
+    <tspan x="40" dy="1.2em">       ░▒▒▒ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒             </tspan>
+    <tspan x="40" dy="1.2em">             ▒▒▒▒▒▒▒▒▒▒▒░░░░░▒▒▒▒▒▒░             </tspan>
+    <tspan x="40" dy="1.2em">             ░▒▒▒▒▒▒▒░░░░░░░░░▒▒▒▒░              </tspan>
+    <tspan x="40" dy="1.2em">              ░▒▒▒▒▒▒▒▒▒▒▒▒▒░▒▒▒▒░               </tspan>
+    <tspan x="40" dy="1.2em">              ░  ░▒▒▒▒▒▒▒▒▒▒▒▒▒░                 </tspan>
+    <tspan x="40" dy="1.2em">             ░▒░   ░░▒▒░░░░░░   ░    </tspan>
+    <tspan x="40" dy="1.2em">         ▒▒ ░▒▒░░░           ░ ░░░░            </tspan>
+    <tspan x="40" dy="1.2em">    ░░  ▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░         </tspan>
+    <tspan x="40" dy="1.2em"> ░▒▒▒░░▒▒▒▒▒▒░░░░░░░░░░░ ░░░░░░░░▒▒▒▒▒▒▒▒▒░</tspan>
+  </text>
+
+  <!-- RIGHT PANEL -->
+  <text x="390" y="30" fill="#24292e">
+    <tspan x="390" y="30">krishnaa....</tspan> -———————————————————————————————————————
+    <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Android 15, Ubuntu 24.10</tspan>
+    <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">18 years</tspan>
+    <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Redwood</tspan>
+    <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Mobile Developer</tspan>
+    <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Android Studio, VS Code</tspan>
+    <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> </tspan><tspan class="value">Kotlin, Dart, C++, JavaScript</tspan>
+    <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Compose, Flutter</tspan>
+    <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Spoken</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">English, Hindi, Odia</tspan>
+    <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Rooting, Modding, CustomROM</tspan>
+    <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Custom ROMs, Widget Dev</tspan>
+    <tspan x="390" y="310">- Contact</tspan> -—————————————————————————————————————
+    <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Dev778g</tspan>
+    <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">sanji778g@gmail.com</tspan>
+    <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">dev06308</tspan>
+  </text>
+</svg>
